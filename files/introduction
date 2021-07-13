@@ -1,0 +1,10 @@
+> 2 types of operations : read, write
+    read : file content read, r
+    write : add data, w
+    append: add data, a
+
+> if we open file in read mode, we can read only
+  if we open file in write  mode, we can write only
+
+> looping is used to get content of the file
+  if we doesnot use loop and directly print the file, we get location only not content
