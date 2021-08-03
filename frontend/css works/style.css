@@ -1,0 +1,23 @@
+/* tagname/ classname/id{
+    property1:value1
+    property2:value2
+} */
+body{
+    background-color:#f0f2f5
+}
+h1{
+    color:#1877f2;
+    text-align:center;
+}
+#hone{
+    color:hsl(327, 79%, 44%);
+}
+button{
+    background-color:#1877f2;
+    color:white;
+}
+.btn{
+    width: 90px;
+    height: 40px;
+    background-color: hsl(327, 79%, 44%);
+}

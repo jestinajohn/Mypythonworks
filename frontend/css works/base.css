@@ -1,0 +1,21 @@
+body{
+    height: 1600px;
+}
+.row-1{
+    height:100px;
+    width:200px;
+    background-color: aquamarine;
+    position:fixed;
+    left: 50%;
+}
+.row-2{
+    height:100px;
+    width:500px;
+    background-color:blue;
+    position:sticky;
+    top:100px;
+}
+.section{
+    width:70%;
+    height:200px;
+}
